@@ -22,3 +22,4 @@ alert(1)
 <a onmouseout="alert(1)">test</a>
 <a onmouseover="alert(1)">test</a>
 <a onmouseup="alert(1)">test</a>
+<a onload="alert(1)">test</a>
